@@ -1,0 +1,59 @@
+# Ambiente virtual
+venv/
+.env/
+env/
+ENV/
+
+# Bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log
+*.log
+
+# Configurações do VS Code
+.vscode/
+
+# Cache do pip
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações pessoais
+*.env
+*.local
+*.sqlite3
+
+# PyInstaller
+*.spec
+
+# mypy
+.mypy_cache/
+
+# pytest
+.cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Arquivos de lock
+poetry.lock
+Pipfile.lock
+

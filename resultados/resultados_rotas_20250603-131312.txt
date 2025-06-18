@@ -1,0 +1,5 @@
+Resultados para rotas:
+Melhor Custo Encontrado: 288.21
+Tempo de Execução Total: 9.13 segundos
+Melhor Rota Encontrada: (0, 19, 24, 16, 21, 17, 14, 20, 23, 25, 26, 18, 22, 15, 13, 7, 3, 12, 8, 11, 6, 4, 5, 2, 1, 9, 10)
+
